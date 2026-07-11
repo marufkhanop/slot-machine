@@ -16,3 +16,5 @@ If you bet on 1 line and win,you get 4x your bet.If you bet on 2 lines,you get 3
 just download the code and run it in terminal.Make sure u have python installed.No special libraries needed,check requesments.txt just in case.
 
 have fun playing!!
+
+
